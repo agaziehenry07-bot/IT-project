@@ -97,4 +97,4 @@ form.addEventListener('submit', (e) => {
     setTimeout(() => { successMsg.style.display = 'none'; }, 4000);
   }
 });
-});
+
